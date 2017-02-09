@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string-array name="currency_array">
+        <item>CAD</item>
+        <item>USD</item>
+        <item>CNY</item>
+    </string-array>
+</resources>
